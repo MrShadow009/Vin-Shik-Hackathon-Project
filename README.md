@@ -24,14 +24,6 @@ Version Control: Git & GitHub
 
 Deployment: GitHub Pages / Vercel (if deployed, add link here)
 
-# 📂 Repository Structure
-VinShik-Hackathon/
-├── index.html       # Main application page  
-├── style.css        # Custom styles (if any)  
-├── script.js        # JavaScript for interactivity  
-├── assets/          # Images, icons, and resources  
-├── README.md        # Project documentation  
-
 # 🚀 Getting Started
 
 Clone the repository:
@@ -48,7 +40,7 @@ Open index.html in your browser.
 ![client](https://github.com/MrShadow009/Vin-Shik-Hackathon-Project/blob/main/assets/images/client.png)
 
 
-![Map]()
+![Map](https://github.com/MrShadow009/Vin-Shik-Hackathon-Project/blob/main/assets/images/map.png)
 
 ![service]()
 
