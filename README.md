@@ -1,10 +1,10 @@
-#🚀 Vin Shik Hackathon Project
-#📌 Overview
+# 🚀 Vin Shik Hackathon Project
+# 📌 Overview
 
 This repository contains my submission for the Vin Shik Hackathon.
 The goal of this project was to build a fully functional and responsive web application that demonstrates creativity, problem-solving, and clean coding practices.
 
-#🎯 Features
+# 🎯 Features
 
 🔹 Interactive and responsive UI
 
@@ -16,7 +16,7 @@ The goal of this project was to build a fully functional and responsive web appl
 
 🔹 Modular structure with reusable components
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: HTML5, CSS3, TailwindCSS, JavaScript
 
@@ -24,7 +24,7 @@ Version Control: Git & GitHub
 
 Deployment: GitHub Pages / Vercel (if deployed, add link here)
 
-#📂 Repository Structure
+# 📂 Repository Structure
 VinShik-Hackathon/
 ├── index.html       # Main application page  
 ├── style.css        # Custom styles (if any)  
@@ -32,7 +32,7 @@ VinShik-Hackathon/
 ├── assets/          # Images, icons, and resources  
 ├── README.md        # Project documentation  
 
-#🚀 Getting Started
+# 🚀 Getting Started
 
 Clone the repository:
 
@@ -41,12 +41,12 @@ git clone https://github.com/<your-username>/VinShik-Hackathon.git
 
 Open index.html in your browser.
 
-#📸 Screenshots
+# 📸 Screenshots
 
 
 	
 	
-#✨ Evaluation Criteria
+# ✨ Evaluation Criteria
 
 This project emphasizes:
 
@@ -58,6 +58,6 @@ This project emphasizes:
 
 ✅ Adherence to best practices
 
-🙏 Acknowledgements
+# Acknowledgements
 
 Special thanks to Vin Shik Hackathon organizers for the opportunity to innovate and learn.
