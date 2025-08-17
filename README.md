@@ -42,7 +42,7 @@ git clone https://github.com/MrShadow009/Vin-Shik-Hackathon-Project.git
 Open index.html in your browser.
 
 # 📸 Screenshots
-![# DashBoard](dashboard.png)
+![# DashBoard](assets\images\dashboard.png)
 S
 
 	
